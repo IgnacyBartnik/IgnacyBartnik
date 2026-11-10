@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on multistate protein design using, among other ML techniques, Alphafold2, ProteinMPNN, RFDiffusion, ESM and ESMFold...
-- 🌱 I’m currently learning everything there is to learn about computational multistate protein design
+- 🔭 I’m used to work on multistate protein design using, among other ML techniques, Alphafold2, ProteinMPNN, RFDiffusion, ESM and ESMFold...
+- 🌱 I’m currently learning everything there is to learn about computational multistate protein design (not anymore actually...)
 - Checkout some of my demo work here(https://IgnacyBartnik.github.io/)
 <!--
 **IgnacyBartnik/IgnacyBartnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
